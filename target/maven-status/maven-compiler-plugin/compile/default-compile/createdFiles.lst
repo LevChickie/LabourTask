@@ -1,0 +1,9 @@
+org\sonar\samples\php\MyPhpRules.class
+org\sonar\samples\php\checks\AvoidTooManyMethodsCheck.class
+org\sonar\samples\php\checks\AvoidTooLongMethodsCheck.class
+org\sonar\samples\php\checks\AvoidCommentingCodePartsCheck.class
+org\sonar\samples\php\checks\AvoidLongLineCheck.class
+org\sonar\samples\php\PHPCustomRulesPlugin.class
+org\sonar\samples\php\checks\AvoidTooManyConditionsInMethodCheck.class
+org\sonar\samples\php\checks\ForbiddenFunctionUseCheck.class
+org\sonar\samples\php\checks\OtherForbiddenFunctionUseCheck.class

@@ -1,0 +1,13 @@
+{
+  "title": "You should not comment codes",
+  "type": "bug",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "1min"
+  },
+  "tags": [
+    "pitfall"
+  ],
+  "defaultSeverity": "MAJOR"
+}
