@@ -1,0 +1,8 @@
+org\sonar\samples\python\CustomPythonRuleRepositoryTest.class
+org\sonar\samples\python\checks\AvoidCommentingCodePartsCheckTest.class
+org\sonar\samples\python\checks\CustomPythonVisitorCheckTest.class
+org\sonar\python\checks\AvoidTooLongLineCheckTest.class
+org\sonar\samples\python\checks\AvoidTooManyLinesInFileCheckTest.class
+org\sonar\samples\python\CustomPythonRulesPluginTest.class
+org\sonar\samples\python\checks\CustomPythonSubscriptionCheckTest.class
+org\sonar\samples\python\checks\AvoidWrongNameCheckTest.class
