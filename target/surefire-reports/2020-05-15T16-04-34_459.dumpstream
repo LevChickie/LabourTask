@@ -1,0 +1,15 @@
+# Created at 2020-05-15T16:04:39.256
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-05-15T16:04:39.256
+WARNING: Illegal reflective access by net.sf.cglib.core.ReflectUtils$1 (file:/C:/Users/MrGamble/.m2/repository/org/sonarsource/java/sonar-java-plugin/5.12.1.17771/sonar-java-plugin-5.12.1.17771.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+
+# Created at 2020-05-15T16:04:39.257
+WARNING: Please consider reporting this to the maintainers of net.sf.cglib.core.ReflectUtils$1
+
+# Created at 2020-05-15T16:04:39.257
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-05-15T16:04:39.258
+WARNING: All illegal access operations will be denied in a future release
+

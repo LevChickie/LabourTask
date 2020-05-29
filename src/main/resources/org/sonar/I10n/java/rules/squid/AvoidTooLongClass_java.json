@@ -1,0 +1,13 @@
+{
+  "title": "A Class should not have more than 150 lines",
+  "type": "code-smell",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "1min"
+  },
+  "tags": [
+    "pitfall"
+  ],
+  "defaultSeverity": "MINOR"
+}

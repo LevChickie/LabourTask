@@ -1,0 +1,13 @@
+{
+  "title": "Your code should not have too long lines. Break them into shorter lines",
+  "type": "code-smell",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "1min"
+  },
+  "tags": [
+    "pitfall"
+  ],
+  "defaultSeverity": "MINOR"
+}

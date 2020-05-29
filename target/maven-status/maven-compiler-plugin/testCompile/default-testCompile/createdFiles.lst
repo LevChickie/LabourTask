@@ -1,0 +1,17 @@
+org\sonar\samples\java\checks\AvoidOffendingLawOfDemeterCheckTest.class
+org\sonar\samples\java\checks\AvoidTooLongMethodsCheckTest.class
+org\sonar\samples\java\checks\AvoidWrongMethodNamesCheckTest.class
+org\sonar\samples\java\checks\AvoidEmptyLinesCheckTest.class
+org\sonar\samples\java\checks\AvoidToHaveTooManyMethodCheckTest.class
+org\sonar\samples\java\checks\AvoidTooLongClassCheckTest.class
+org\sonar\samples\java\checks\AvoidOffendingBoyScoutLawCheckTest.class
+org\sonar\samples\java\checks\AvoidEmptyClassCheckTest.class
+org\sonar\samples\java\checks\AvoidUsingGetTypeCheckTest.class
+org\sonar\samples\java\checks\AvoidWrongVariableNamesCheckTest.class
+org\sonar\samples\java\checks\AvoidCommentingCodePartsCheckTest.class
+org\sonar\samples\java\checks\AvoidQueryAndCommandInSingleMethodCheckTest.class
+org\sonar\samples\java\checks\AvoidNonPrivateVariableCheckTest.class
+org\sonar\samples\java\checks\AvoidLongLineCheckTest.class
+org\sonar\samples\java\checks\AvoidToHaveManyConditionInMethodCheckTest.class
+org\sonar\samples\java\checks\AvoidEmptyMethodCheckTest.class
+org\sonar\samples\java\checks\AvoidRepeatingCodeCheckTest.class

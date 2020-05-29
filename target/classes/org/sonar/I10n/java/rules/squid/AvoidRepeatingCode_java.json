@@ -1,0 +1,13 @@
+{
+  "title": "Class should not have repeated codes",
+  "type": "code-smell",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "1min"
+  },
+  "tags": [
+    "pitfall"
+  ],
+  "defaultSeverity": "MINOR"
+}

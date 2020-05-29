@@ -1,0 +1,13 @@
+{
+  "title": "You should not leave empty class. Fill it in or delete it",
+  "type": "code-smell",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "1min"
+  },
+  "tags": [
+    "pitfall"
+  ],
+  "defaultSeverity": "MINOR"
+}

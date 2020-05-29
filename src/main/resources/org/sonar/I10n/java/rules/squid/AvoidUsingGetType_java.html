@@ -1,0 +1,9 @@
+<p>A code should not contain GetType.</p>
+<h2>Noncompliant code example</h2>
+<pre>
+ public void method() throws NoSuchFieldException {
+        Field field = User.class.getField("Marks");
+        field.getType();
+    }
+</pre>
+

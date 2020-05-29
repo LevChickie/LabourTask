@@ -1,0 +1,13 @@
+{
+  "title": "Use names that reference to its purpose",
+  "type": "bug",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "1min"
+  },
+  "tags": [
+    "pitfall"
+  ],
+  "defaultSeverity": "MINOR"
+}

@@ -1,0 +1,1 @@
+public class AvoidEmptyClassCheck// Noncompliant {{You should not leave empty class. Fill it in or delete it}}{}

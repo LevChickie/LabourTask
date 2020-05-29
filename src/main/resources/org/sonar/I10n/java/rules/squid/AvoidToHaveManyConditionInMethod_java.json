@@ -1,0 +1,13 @@
+{
+  "title": "A Method should not have so many conditions",
+  "type": "code-smell",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "1min"
+  },
+  "tags": [
+    "pitfall"
+  ],
+  "defaultSeverity": "MAJOR"
+}

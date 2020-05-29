@@ -1,0 +1,53 @@
+<p>A Method should not have more than 40 lines</p>
+<h2>Noncompliant code example</h2>
+<pre>
+     public void methodTest()
+  {
+      int a;
+      String b;
+      int c;
+      c=1;
+      b="two";
+      a =1;
+      a=c;
+      c= 5;
+      a= 3*c;
+      b = "3";
+      c= 3;
+      a = 2;
+      b= "four";
+      a = c+3;
+      b="five";
+      c = a*03+1;
+      a = 3;
+      b= "six";
+      a = 1;
+      b= "seven";
+      c= 5;
+      a= 3*c;
+      b = "eight";
+      c= 3;
+      a = 2;
+      a= 3*c;
+      b = "two";
+      c= 3;
+      a = 2;
+      b= "six";
+      a = 1;
+      b= "seven";
+      c= 5;
+      a= 3*c;
+      b = "eight";
+      c= 3;
+      a = 2;
+      a= 3*c;
+      b = "two";
+      b="five";
+      c = a*03+1;
+      a = 3;
+      b= "six";
+      a = 1;
+      b= "seven"; // Noncompliant {{A Method should not have more than 40 lines}}
+  }
+
+</pre>
